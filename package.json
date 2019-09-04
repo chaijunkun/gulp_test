@@ -16,9 +16,9 @@
   "author": "chaijunkun",
   "license": "ISC",
   "dependencies": {
-    "glob": "^7.1.3",
-    "gulp": "^4.0.0",
-    "gulp-cli": "^2.0.1",
+    "glob": "^7.1.4",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0",
     "gulp-html-replace": "^1.6.2",
     "pump": "^3.0.0"
   }
